@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Российская Федерация",
+		"leaderName": "Владимир Владимирович Путин",
+		"adjective": ["Русский"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Российская Федерация при развале Советского Союза с целью избежать развития на постсоветском пространстве по югославскому сценарию, пошла на беспрецедентные в истории человечества жертвы — отдала десятки тысяч квадратных километров своих исконных территорий. Хорошо или плохо, сейчас не будем говорить, но это произошло. - В. Путин, 2006г",
+		"startIntroPart2": "После развала Советского Союза, Российская Федерация находилась на грани гибели - настали лихие девяностые, чеченские войны, активные попытки запада перехватить власть. Но с 31 декабря 1999, первым лицом страны становится Владимир Владимирович Путин, позже избераемый на пост презедента. Какова будет новая глава в истории России?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Еще 50 лет назад ленинградская улица меня научила одному правилу: если драка неизбежна, бить надо первым.",
+		"attacked": "Хочу, чтобы меня услышали и простые граждане западных государств: вас сейчас настойчиво пытаются убедить в том, что все ваши трудности – это результат каких-то враждебных действий России, что из вашего собственного кошелька надо оплатить борьбу с мифической русской угрозой. Всё это ложь. А правда в том, что текущие проблемы, с которыми сталкиваются миллионы людей на Западе, стали результатом многолетних действий правящих элит их государств, их ошибок, близорукости и амбиций. Эти элиты думают не о том, как улучшить жизнь своих граждан в западных странах. Они одержимы своими корыстными интересами и сверхприбылями",
+		"defeated": "Русский народ, если Западу удастся развалить Российскую Федерацию и установить контроль над ее осколками, может не сохраниться — 'будут московиты, уральцы и другие'",
+		"introduction": "Добро пожаловать в Россию.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "В известном итальянском фильме есть такая фраза - 'настоящий мужчина должен всегда пытаться, а настоящая женщина должна сопротивляться.'",
+		"neutralLetsHearIt": ["Мы готовы выслушать Вас.","Внимательно слушаю.","Слушаю Ваши предложения."],
+		"neutralNo": ["Стриптиза не будет, вопрос отменяется.","Мы не можем согласиться с этим.","К сожалению."],
+		"neutralYes": ["Решение удовлетворительное.","Рады сотрудничать с Вами.","Россия заинтересована в этом."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Нам не о чем говорить.",
+		"hateLetsHearIt": ["Ну и?","Быстрее.","Слушаю Вас."],
+		"hateNo": ["Россия не допустит этого.","Это даже не обсуждается.","Вы там что, совсем с ума посходили?"],
+		"hateYes": ["Это вполне приемлемо.","Хорошо.","В таком случае, это лучший вариант для всех."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Я знаю, что на митингах молодежи какую-то денежку платили, студентам, чтобы они пришли. Что ж, хорошо, что они хоть заработали",
+		"tradeRequest": "Планируем расширять сотрудничество с Украиной, если она не будет тырить у нас газ",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,30,190],
+		"innerColor": [255,0,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Москва","Санкт-Петербург","Воронеж","Ростов На Дону","Псков","Екатеринбург","Хабаровск","Евпатория","Севастополь",
+			"Симферополь","Калининград","Волгоград","Новгород","Уфа","Новосибирск","Нижний Новгород","Донецк","Луганск","Херсон",
+			"Омск","Томск","Пенза","Волгоград","Кострома","Рязань","Казань","Челябинск","Астрахань","Архангельск",
+			"Магнитогорск","Дагестан","Грозный","Махачкала","Тула","Пермь"]
 	}
 ]
